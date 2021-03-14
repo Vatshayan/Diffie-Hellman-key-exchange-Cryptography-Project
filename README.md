@@ -4,7 +4,7 @@ Communication security Project involving ciphers and  Diffie Hellman key exchang
 
 
 # PPT 
-Click on this link to see beautiful PPT on Project - https://github.com/Vatshayan/Diffie-Hellman-key-exchange-Cryptography-Project/blob/main/DF_V_P_Project_PPT.pdf
+Click on this beautiful  [PPT](https://github.com/Vatshayan/Diffie-Hellman-key-exchange-Cryptography-Project/blob/main/DF_V_P_Project_PPT.pdf) to see this project.
 
 
  <img width="400" alt="PPT2" src="https://user-images.githubusercontent.com/28294942/111065430-9f4b0780-84df-11eb-8035-b467d54d6853.PNG">
