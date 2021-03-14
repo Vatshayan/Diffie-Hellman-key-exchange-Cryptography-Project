@@ -43,8 +43,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### HOW TO RUN THE PROJECT-
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
 
-### INTERNSHIP 
-🌟 Internship oppurtunity for everyone - https://github.com/Vatshayan/INTERNSHIP
 
 ### 📫 HOW TO REACH ME 
 
